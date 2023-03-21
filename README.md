@@ -22,7 +22,9 @@ The other stepper motor was placed vertically with its frame using L joints. The
 
 ![IMG_20221207_161956 (1)](https://user-images.githubusercontent.com/106835636/226588322-96e2c492-e696-4327-9701-a99947e11419.jpg)
 
-![IMG_20221207_161928 (1)](https://user-images.githubusercontent.com/106835636/226588343-ab3125de-52bd-4e05-b052-a14fa3d7266d.jpg)
+
+![IMG_20221207_161928 (2)](https://user-images.githubusercontent.com/106835636/226593747-b6b5d087-dc4f-4c46-9549-20367dba6ef1.jpg)
+
 
 
 ### Software Components
