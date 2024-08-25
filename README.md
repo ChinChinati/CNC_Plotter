@@ -28,6 +28,7 @@ The other stepper motor was placed vertically with its frame using L joints. The
 
 
 
+
 ### Software Components
 The software components used in this project include:
 
